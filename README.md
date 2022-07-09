@@ -12,7 +12,7 @@ I am a novice frontend developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### Contacts
-ivan.kolchin@mail.ru
+ivan.kolchin@gmail.com
 
 ---
 
