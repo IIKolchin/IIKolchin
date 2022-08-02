@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="300"/>
-</div>
 
-
----
 
 
 ### Всем привет, меня зовут Иван Колчин <img src="https://media.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif" width="30">
