@@ -1,6 +1,6 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm Ivan Kolchin</h1>
-	<h3>I am a junior frontend developer</h3>
+	<h1>Hi there, I'm Ivan</h1>
+	<h3>Junior frontend developer</h3>
 </div>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/иван-колчин-53423624a/">
