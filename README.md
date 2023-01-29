@@ -1,8 +1,5 @@
-
-
-
-### Hi, my name is Ivan Kolchin <img src="https://media.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif" width="30">
-I am a junior frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## About me <img src="https://media.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif" width="30">
+Hi, my name is Ivan Kolchin. I am a junior frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
