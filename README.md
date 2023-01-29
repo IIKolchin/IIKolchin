@@ -1,6 +1,15 @@
-### About me <img src="https://media.giphy.com/media/pXI2yQgM4t5QcWlJ0a/giphy.gif" width="30">
-Hi, my name is Ivan Kolchin. I am a junior frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+<div id="header" align="center">
+	<h1>Hi there, I'm Ivan Kolchin</h1>
+	<h3>I am a junior frontend developer</h3>
+</div>
+<div id="socials" align="center">
+	<a href="https://www.linkedin.com/in/иван-колчин-53423624a/">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://t.me/IIKolchin">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
 ---
 
 ### My technology stack
@@ -31,7 +40,7 @@ Hi, my name is Ivan Kolchin. I am a junior frontend developer <img src="https://
 
 ---
 
-### Stats :fire:
+### My stat
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IIKolchin&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IIKolchin&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IIKolchin&theme=default)
