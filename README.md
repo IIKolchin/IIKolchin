@@ -10,7 +10,6 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
----
 
 ### My technology stack
 <i class="devicon-javascript-plain colored"></i>
