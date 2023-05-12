@@ -3,7 +3,7 @@
 	<h3>Junior frontend developer</h3>
 </div>
 <div id="socials" align="center">
-	<a href="https://www.linkedin.com/in/иван-колчин-53423624a/">
+	<a href="https://www.linkedin.com/in/ivan-kolchin-53423624a/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="https://t.me/IIKolchin">
